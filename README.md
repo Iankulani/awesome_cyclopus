@@ -15,3 +15,5 @@ python awesome_cyclopus.py
 ```
 
 # Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/awesome_cyclopus&type=Date)](https://star-history.com/#Iankulani/awesome_cyclopus&Date)
